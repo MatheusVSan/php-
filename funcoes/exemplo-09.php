@@ -52,5 +52,4 @@ $hierarquia = array(
     )
 );
 
-fu
 ?>

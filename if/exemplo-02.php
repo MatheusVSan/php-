@@ -18,4 +18,4 @@ if ($idade < 18) {
     echo "Você é um idoso";
 }
 
-?>
+?>                                              
