@@ -4,7 +4,7 @@ $qualASuaIdade = 25;
 
 $idadeCrianca = 12;
 $idadeMaior = 18;
-$idadeMelhor = 125;
+$idadeMelhor = 60;
 
 if ($qualASuaIdade < $idadeCrianca) {
 
